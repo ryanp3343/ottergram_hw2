@@ -34,6 +34,7 @@ body {
 
 a[href='#'] {
   text-decoration: none;
+  font-size: 400%;
 }
 
 .main-header {
